@@ -1,0 +1,1 @@
+publish page https://iamyelex.github.io/Js-Calculator/
